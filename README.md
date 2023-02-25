@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome&fontSize=60&animation=fadeIn&fontAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=waving&color=F4BBBB&height=300&section=header&text=welcome&fontSize=60&animation=fadeIn&fontAlignY=38)
 
 ![hwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhwancha&show_icons=true&theme=radical)
 
