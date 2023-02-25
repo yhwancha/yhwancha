@@ -3,7 +3,7 @@
 ![hwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhwancha&show_icons=true&theme=radical)
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Good%20Day!&fontSize=60&animation=fadeIn&fontAlignY=38&desc=I'm%20HaMin,%20Thanks%20For%20Your%20Visit!&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome&fontSize=60&animation=fadeIn&fontAlignY=38)
 
 <h3 align="center">BACKEND</h3>
 <p align="center">
