@@ -1,9 +1,6 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome&fontSize=60&animation=fadeIn&fontAlignY=38)
 
 ![hwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhwancha&show_icons=true&theme=radical)
-
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome&fontSize=60&animation=fadeIn&fontAlignY=38)
 
 <h3 align="center">BACKEND</h3>
 <p align="center">
