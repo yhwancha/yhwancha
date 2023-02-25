@@ -15,7 +15,7 @@
 </p>
 <h3 align="center">DB</h3>
 <p align="center">
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=PostgreSQL&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/PostgreSQL-0064a5?style=for-the-badge&logo=PostgreSQL&logoColor=white"/></a>&nbsp 
 <br>
 
 </p>
